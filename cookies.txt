@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+t.me	TRUE	/	FALSE	1999999999	stel_ssid	ed0401b13383f5af89_7612280383706640405
+t.me	TRUE	/	FALSE	1999999999	samesite	None
+.whatsapp.com	TRUE	/	FALSE	1999999999	wa_lang_pref	sr
+
